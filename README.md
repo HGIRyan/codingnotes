@@ -24,6 +24,6 @@ sshd     1564 root    4u  IPv6  15736      0t0  TCP *:22 (LISTEN)
 node     2114 root   25u  IPv6 135444      0t0  TCP *:80``` This is your node server port ``` (LISTEN)
 ```
 and if you notice my node server is the last one so it was running already but when I search my hosted IP in my chrome url I was getting an endless load for some reason because of that node server running. So to fix it I had to stop the node server and to do that I ran this
-```for p in `sudo lsof -n -i:80 | grep LISTEN | awk '{print $2}'`; do sudo kill -9 $p; done``` and it should return nothing so if you put in this code again ```sudo lsof -i -P -n | grep LISTEN ``` you should have it return similar to before but with your node server gone.
-
+```for p in `sudo lsof -n -i:80 | grep LISTEN | awk '{print $2}'`; do sudo kill -9 $p; done``` 
+and it should return nothing so if you put in this code again ```sudo lsof -i -P -n | grep LISTEN ``` you should have it return similar to before but with your node server gone.
 So with your Node Server stopped you can go again and run ```node server/server``` or where ever your server us running and it should work without getting the throw er;
