@@ -9,6 +9,7 @@ https://www.linkedin.com/in/ryanzhutchison/
  or to email me at mailto:Ryan@MyNextDev.com
  
  I specialize in these languages and frameworks
+ ### Full PERN WebStack
  * JavaScript
    * React
    * Node.js
