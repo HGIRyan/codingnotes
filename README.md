@@ -1,7 +1,7 @@
 # -This Is My Coding Notes Repo-
 ## Problems & Solutions
 * While Hosting and trying to start my server I ran into an issue of 
-      events.js:173
+```events.js:173
       throw er; // Unhandled 'error' event
       ^
 
@@ -14,4 +14,4 @@ Error: listen EADDRINUSE: address already in use :::80
     at process.internalTickCallback (internal/process/next_tick.js:77:7)
 Emitted 'error' event at:
     at emitErrorNT (net.js:1282:8)
-    at process.internalTickCallback (internal/process/next_tick.js:72:19)
+    at process.internalTickCallback (internal/process/next_tick.js:72:19)```
