@@ -2,7 +2,7 @@
 ## Problems & Solutions
 * While Hosting and trying to start my server I ran into an issue of 
 node server/server
-      * ```events.js:173
+      ```events.js:173
       throw er; // Unhandled 'error' event
       ^
 
