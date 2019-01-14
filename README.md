@@ -9,14 +9,14 @@ https://www.linkedin.com/in/ryanzhutchison/
  or to email me at mailto:Ryan@MyNextDev.com
  
  I specialize in these languages and frameworks
- *JavaScript
-  *React
-  *Node.js
-  *Express
+ * JavaScript
+  * React
+  * Node.js
+  * Express
 
- *HTML & CSS
+ * HTML & CSS
  
- *PostgresSQL
+ * PostgresSQL
  
 
 Thanks!
