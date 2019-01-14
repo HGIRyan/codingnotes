@@ -10,9 +10,9 @@ https://www.linkedin.com/in/ryanzhutchison/
  
  I specialize in these languages and frameworks
  * JavaScript
-  * React
-  * Node.js
-  * Express
+   * React
+   * Node.js
+   * Express
 
  * HTML & CSS
  
