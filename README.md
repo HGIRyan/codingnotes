@@ -7,5 +7,16 @@ Also feel free to check out any of my other projects and if you have any bussine
 https://www.linkedin.com/in/ryanzhutchison/
 
  or to email me at mailto:Ryan@MyNextDev.com
+ 
+ I specialize in these languages and frameworks
+ *JavaScript
+  *React
+  *Node.js
+  *Express
+
+ *HTML & CSS
+ 
+ *PostgresSQL
+ 
 
 Thanks!
